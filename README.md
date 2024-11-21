@@ -2,6 +2,6 @@
 
 This is my first time to github
 
-Hello Nigger 
+Hello world
 
 135717645345234234
